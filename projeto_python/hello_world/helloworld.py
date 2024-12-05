@@ -1,0 +1,6 @@
+print("Hello World\nMeu mundo")
+print('hello world!')
+print("\033[1;31mBelchior\033[m")
+print(1+1)
+print('1'+'1')
+print(f'A soma de 2+2 = {2+2}')
